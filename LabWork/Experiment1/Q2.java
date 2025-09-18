@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class homework_years_days{
+public class Q2{
 	public static void main(String[] args){
 		long input=0;
 		long convert=0;

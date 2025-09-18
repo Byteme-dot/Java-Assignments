@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ArrayOddEven {
+public class Q3 {
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
 		int usize;

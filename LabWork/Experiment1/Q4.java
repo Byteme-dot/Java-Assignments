@@ -1,18 +1,18 @@
 import java.util.Scanner;
 
-public class ThreeDigitReverse{
+public class Q4{
 	public static void main(String[] args){
 		int input=0;
-		int reverse=0;
+		int sum=0;
 		Scanner scan = new Scanner(System.in);
-		System.out.print("Enter 3 digit number: ");
+		System.out.println("Sum of 3 digits of 3 digit number");
+		System.out.println("Enter 3 digit number: ");
 		input=scan.nextInt();
 		for(int i=0;i<3;i++){
-			reverse*=10;
-			reverse=reverse+(input%10);
+			sum=sum+(input%10);
 			input=input/10;
 		}
-		System.out.println("Reversed = "+reverse);
+		System.out.println("Sum = "+sum);
 		System.out.println("Program Ended");
 	}
 }

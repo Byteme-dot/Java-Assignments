@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class ArrayDemo{
+public class Q1_2{
 	public static void main(String[] args){
 		Scanner scan = new Scanner(System.in);
 		int usize;
