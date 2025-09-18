@@ -1,0 +1,9 @@
+ek class banani h recursion
+jisme ek number hoga variable aur ek string variable hoga
+functions: (use recurison in everything)
+1)Factorial
+2)Fibunaki
+3)reverse a string
+4)palindrome
+ek aur class banani h recursion program . isme hoga iss class ka object and user menu driven program hoga choices ke hisab se and 
+assign values
